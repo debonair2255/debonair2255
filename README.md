@@ -1,31 +1,40 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>
-      Enobong Umoh mini project
-      <title/>
-<meta charset="UTF-8">
-  </head>
-  <body>
-     <header>
-<p><strong>Enobong Umoh fx</strong></p>
-  </section>
+<head>
+  <meta charset="UTF-8">
+  <title>Enobong Umoh Mini Project</title>
+</head>
+<body>
+  <header>
+    <p><strong>Enobong Umoh FX</strong></p>
+  </header>
+
   <nav>
-  <p><strong>About me</strong></p></nav>
-  I am a Forex, Cryto and Syntetic indices trader who is cosistently profitable in the financial market.
- I am in a mission of tranningthousands of student in Nigerai and across the world be extension.
-  <p><strong>Hobbies</strong></p>
-  
-  Trading, Traveling & Driving
-  <p><em><strong>Contacts:</strong>
-  enobongumoh665@gmail.com</em>
-  </p>
+    <p><strong>About Me</strong></p>
+  </nav>
 
-</section>
+  <section>
+    <p>
+      I am a Forex, Crypto, and Synthetic Indices trader who is consistently profitable in the financial market.
+      I am on a mission to train thousands of students in Nigeria and across the world by extension.
+    </p>
 
-   <img src="umohfx.jpg" alt="umohfx.jpg"  width="300">
-   
-    <p><footer><strong>Copyright©<strong/></p>   <em>2025 Enobongumohfx, All right reserve</em>
-    </footer>
-    
+    <p><strong>Hobbies:</strong></p>
+    <ul>
+      <li>Trading</li>
+      <li>Traveling</li>
+      <li>Driving</li>
+    </ul>
+
+    <p><strong>Contacts:</strong></p>
+    <p><em>enobongumoh665@gmail.com</em></p>
+
+    <img src="umohfx.jpg" alt="Enobong Umoh FX" width="300">
+  </section>
+
+  <footer>
+    <p><strong>Copyright © 2025</strong></p>
+    <em>EnobongUmohFX, All rights reserved.</em>
+  </footer>
 </body>
 </html>
