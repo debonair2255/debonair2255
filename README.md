@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <p><strong>Enobong Umoh FX</strong></p>
+    <p><strong>Enobong Umoh</strong></p>
   </header>
 
   <nav>
@@ -15,8 +15,7 @@
 
   <section>
     <p>
-      I am a Forex, Crypto, and Synthetic Indices trader who is consistently profitable in the financial market.
-      I am on a mission to train thousands of students in Nigeria and across the world by extension.
+      I am afullstack developee
     </p>
 
     <p><strong>Hobbies:</strong></p>
@@ -24,6 +23,7 @@
       <li>Trading</li>
       <li>Traveling</li>
       <li>Driving</li>
+<li>coding<\>
     </ul>
 
     <p><strong>Contacts:</strong></p>
